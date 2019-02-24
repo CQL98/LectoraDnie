@@ -1,6 +1,7 @@
 # LectoraDnie
 Aplicativo Android Lectura Dni electronico peruano
 Elementos a usar : Lectora y cable otg
+
 Documentos referencia :
 
 -Documentacion tecnica Reniec: https://pki.reniec.gob.pe/siid/eventos/GuiaReferenciaEspecificacionesTecnicasOperacionesDNIe-v1.0-20150722.pdf
