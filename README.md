@@ -13,6 +13,9 @@ Para poder comunicarse se usa la API de host USB android.hardware.usb
 Y los pasos a seguir para la obtención de datos básicos del ciudadano segun reniec:
 "El DNIe contiene datos básicos del ciudadano. Estos datos residen en el chip del DNIe, específicamente,
 en el registro denominado ABI. Para obtener estos datos, se realiza la siguiente secuencia de pasos.
+
 i. Iniciar contexto PKI
+
 ii. Seleccionar el EF del registro ABI
+
 iii. Lectura e Interpretación del registro ABI"
