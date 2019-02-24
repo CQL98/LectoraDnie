@@ -5,7 +5,7 @@ Documentos referencia :
 
 -Documentacion tecnica Reniec: https://pki.reniec.gob.pe/siid/eventos/GuiaReferenciaEspecificacionesTecnicasOperacionesDNIe-v1.0-20150722.pdf
 
--Especificacion para :CCID: https://www.usb.org/sites/default/files/DWG_Smart-Card_CCID_Rev110.pdf
+-Especificacion para CCID: https://www.usb.org/sites/default/files/DWG_Smart-Card_CCID_Rev110.pdf
 
 -Hardware usb Android: https://developer.android.com/reference/android/hardware/usb/package-summary
 
