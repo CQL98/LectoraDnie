@@ -1,5 +1,6 @@
 # LectoraDnie
 Aplicativo Android Lectura Dni electronico peruano
+
 Elementos a usar : Lectora y cable otg
 
 Documentos referencia :
